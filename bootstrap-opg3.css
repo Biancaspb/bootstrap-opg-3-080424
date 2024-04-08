@@ -1,0 +1,30 @@
+
+.btn-primary {
+    background-color: rgb(223, 68, 68);
+    border-color: red;
+}
+
+
+.btn {
+    margin-right: 140px;
+}
+
+.btn:hover {
+    background-color: rgb(245, 125, 145);
+    border-color: rgb(245, 125, 145);
+}
+
+.card{
+    margin-top: 20px;
+}
+
+
+footer {
+    background: rgb(235, 235, 235);
+    display: flex;
+    justify-content: center;
+}
+
+i{
+    margin: 10px;
+}
